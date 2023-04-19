@@ -22,6 +22,7 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 54.178.201.48, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Cập nhật 19/4/2022 16:17 = ss, 54.178.201.48, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (LKTeamShare) = vmess, 0001.hcm.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.hcm.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 0001.hn.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.hn.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, 0001.sg.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.sg.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
