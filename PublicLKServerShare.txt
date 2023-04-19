@@ -22,14 +22,14 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-(v1.9) Cập nhật 19/4/2022 18:39 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+(v1.10) Cập nhật 19/4/2022 18:39 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (LKTeamShare) = vmess, 0001.hcm.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.hcm.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 0001.hn.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.hn.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, 0001.sg.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.sg.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
-Japan1 (LKTeamShare) = vmess, 0001.jp.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.jp.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
+Japan (🛑 Bảo trì) = vmess, 0001.jp.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:"dl.kgvn.garenanow.com", sni = 0001.jp.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Germany (LKTeamShare) = ss, ak1737.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 8090, encrypt-method = aes-256-gcm, password = PCnnH6SQSnfoS27, tfo = false, udp-relay = false
 Hong Kong (LKTeamShare) = vmess, 182.16.1.194, 80, username = 00a1da14-d55f-5f75-e346-79b985e1a723, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /opt/video/images, sni = 182.16.1.194, skip-cert-verify = true, tfo = false, udp-relay = false
-UnitedKingdom (LKTeamShare) = vmess, vuk1.0bad.com, 443, username = 927094d3-d678-4763-8591-e240d0bcae87, tls = true, vmess-aead = true, tls13 = false, ws = true, ws-path = /chat, ws-headers = host:"vuk1.0bad.com", sni = vuk1.0bad.com, skip-cert-verify = true, tfo = false, udp-relay = false
+UnitedKingdom (🛑 Bảo trì) = vmess, vuk1.0bad.com, 443, username = 927094d3-d678-4763-8591-e240d0bcae87, tls = true, vmess-aead = true, tls13 = false, ws = true, ws-path = /chat, ws-headers = host:"vuk1.0bad.com", sni = vuk1.0bad.com, skip-cert-verify = true, tfo = false, udp-relay = false
 
 [Proxy Group]
 🚀 节点选择 = select, ♻️ 自动选择, DIRECT, Hong Kong
