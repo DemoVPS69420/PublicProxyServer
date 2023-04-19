@@ -22,14 +22,14 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-(v1.12.1) Cập nhật 20/4/2023 05:25 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+(v1.12.2) Cập nhật 20/4/2023 05:27 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (LKTeamShare) = vmess, 0001.hcm.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:dl.kgvn.garenanow.com, sni = 0001.hcm.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 0001.hn.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:dl.kgvn.garenanow.com, sni = 0001.hn.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, 0001.sg.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:dl.kgvn.garenanow.com, sni = 0001.sg.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore2 (LKTeamShare) = vmess, asia1.oceis.net, 80, username = f2969c30-dea8-11ed-b739-205c6d5f5d78, tls = false, vmess-aead = true, tls13 = false, sni = asia1.oceis.net, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore3 (LKTeamShare) = ss, 54.179.30.188, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Singapore4 (LKTeamShare) = ss, 3.0.78.149, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Singapore4 (LKTeamShare) = ss, 18.141.13.226, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Singapore5 (LKTeamShare) = ss, 18.141.13.226, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Japan1 (LKTeamShare) = ss, 54.248.57.88, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Japan2 (LKTeamShare) = ss, 43.206.233.169, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Japan3 (LKTeamShare) = ss, 54.178.201.48, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
