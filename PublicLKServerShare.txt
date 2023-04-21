@@ -22,10 +22,11 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Phiên bản: v1.13.3 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Cập nhật 21/4/2023 18:54 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Vietnam, HoChiMinh (🛑 Tạm đóng) = vmess, 0001.hcm.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:dl.kgvn.garenanow.com, sni = 0001.hcm.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
-Vietnam, Hanoi (LKTeamShare) = vmess, hn1.vpn5sao.com, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:"dl.kgvn.garenanow.com", sni = hn1.vpn5sao.com, skip-cert-verify = true, tfo = false, udp-relay = false
+Phiên bản: v1.14 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Cập nhật 21/4/2023 18:58 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Vietnam, HoChiMinh (LKTeamShare) = trojan, vietnamnew1.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Vietnam, HoChiMinh2 (LKTeamShare) = trojan, vietnamnew2vip.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Vietnam, Hanoi (LKTeamShare) = vmess, hn1.vpn5sao.com, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = hn1.vpn5sao.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, 0001.sg.genzpn.com, 80, username = c7823733-dfc9-430d-a7cf-c3302f9627d6, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /, ws-headers = host:dl.kgvn.garenanow.com, sni = 0001.sg.genzpn.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore2 (🛑 Lỗi, bảo trì) = vmess, asia1.oceis.net, 80, username = f2969c30-dea8-11ed-b739-205c6d5f5d78, tls = false, vmess-aead = true, tls13 = false, sni = asia1.oceis.net, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore3 (🛑 Lỗi, bảo trì) = ss, 54.179.30.188, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
