@@ -22,9 +22,9 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Phiên bản: v1.15.2 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Cập nhật 23/4/2023 23:45 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Vietnam, HoChiMinh (LKTeamShare) = trojan, vietnamnew2vip.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Phiên bản: v1.15.3 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Cập nhật 24/4/2023 01:37 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Vietnam, HoChiMinh (🛑 Lỗi, bảo trì) = trojan, vietnamnew2vip.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, hn1.vpn5sao.com, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = hn1.vpn5sao.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, sing1.vpn5sao.com, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = sing1.vpn5sao.com, skip-cert-verify = true, tfo = false, udp-relay = false
 Germany (LKTeamShare) = ss, ak1737.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 8090, encrypt-method = aes-256-gcm, password = PCnnH6SQSnfoS27, tfo = false, udp-relay = false
