@@ -22,7 +22,7 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Phiên bản: v1.15.0 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Phiên bản: v1.15.1 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Cập nhật 23/4/2023 23:45 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (🛑 Lỗi, bảo trì) = trojan, vietnamnew1.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, HoChiMinh2 (LKTeamShare) = trojan, vietnamnew2vip.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
@@ -32,6 +32,7 @@ Germany (LKTeamShare) = ss, ak1737.www.outline.network.fr8678825324247b8176d59f8
 Hong Kong (🛑 Bảo trì) = vmess, 182.16.1.194, 80, username = 00a1da14-d55f-5f75-e346-79b985e1a723, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /opt/video/images, sni = 182.16.1.194, skip-cert-verify = true, tfo = false, udp-relay = false
 UnitedKingdom (LKTeamShare) = ss, ak1740.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 6697, encrypt-method = aes-256-gcm, password = TEzjfAYq2IjtuoS, tfo = false, udp-relay = false
 UnitedStates (🛑 Lỗi, bảo trì) = ss, 18.236.78.139, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+France (LKTeamShare) = ss, ak1739.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 8000, encrypt-method = aes-256-gcm, password = KixLvKzwjekG00rm, tfo = false, udp-relay = false
 
 [Proxy Group]
 🚀 节点选择 = select, ♻️ 自动选择, DIRECT, Hong Kong
