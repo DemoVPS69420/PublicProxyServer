@@ -1,5 +1,5 @@
 Hãy cập nhật server thường xuyên = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
-Phiên bản (Loon): v1.1.6 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
+Phiên bản (Loon): v1.1.7 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Cập nhật 7/5/2023 23:11 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Telegram: @KadenMegarimi = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Vietnam, HoChiMinh (LKTeamShare) = trojan,gmvip01.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
@@ -14,3 +14,5 @@ Hong Kong (LKTeamShare) = Vmess,182.16.1.194,80,auto,"00a1da14-d55f-5f75-e346-79
 UnitedKingdom (LKTeamShare) = Shadowsocks,ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,4444,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
 UnitedKingdom2 (LKTeamShare) = Vmess,vuk1.0bad.com,443,auto,"927094d3-d678-4763-8591-e240d0bcae87",transport=ws,alterId=0,path=/chat,host=vuk1.0bad.com,over-tls=true,tls-name=vuk1.0bad.com
 UnitedStates (LKTeamShare) = Shadowsocks,ak1744.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,6697,aes-256-gcm,"TEzjfAYq2IjtuoS",fast-open=false,udp=false
+Canada (LKTeamShare) = Shadowsocks,ak1745.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,443,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
+France (LKTeamShare) = Shadowsocks,ak1739.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,8000,aes-256-gcm,"KixLvKzwjekG00rm",fast-open=false,udp=false
