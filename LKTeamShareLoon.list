@@ -10,3 +10,4 @@ Singapore2 (LKTeamShare) = trojan,singvip1.csadata4g.me,443,"e505ff62-bc60-4113-
 Japan1 (LKTeamShare) = Vmess,152.69.197.74,12345,auto,"b8a6bf58-485a-4046-b386-b3661bf65eff",transport=ws,alterId=0,path=/bb
 Germany (LKTeamShare) = Shadowsocks,ak1746.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,9102,aes-256-gcm,"e4FCWrgpkji3QY",fast-open=false,udp=false
 Germany2 (LKTeamShare) = Vmess,51.75.74.253,10000,auto,"df05adba-e5fb-11ed-a1bd-5fee106af88d",transport=ws,alterId=0,path=/vpnjantit
+Hong Kong (LKTeamShare) = Vmess,182.16.1.194,80,auto,"00a1da14-d55f-5f75-e346-79b985e1a723",transport=ws,alterId=0,path=/opt/video/images
