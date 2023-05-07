@@ -22,14 +22,15 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Phiên bản: v1.17.1 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Cập nhật 7/5/2023 23:36 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Phiên bản: v1.17.2 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Cập nhật 7/5/2023 23:53 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Telegram: @KadenMegarimi = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (LKTeamShare) = trojan, gmvip01.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, HoChiMinh2 (LKTeamShare) = trojan, gmloadip0.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 103.122.163.39, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = 103.122.163.39, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, 139.162.20.238, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = 139.162.20.238, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore2 (LKTeamShare) = trojan, singvip1.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Singapore3 (LKTeamShare) = ss, ak1752.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 808, encrypt-method = chacha20-ietf-poly1305, password = G!yBwPWH3Vao, tfo = false, udp-relay = false
 Japan1 (LKTeamShare) = vmess, 152.69.197.74, 12345, username = b8a6bf58-485a-4046-b386-b3661bf65eff, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /bb, sni = 152.69.197.74, skip-cert-verify = true, tfo = false, udp-relay = false
 Germany (LKTeamShare) = ss, ak1746.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 9102, encrypt-method = aes-256-gcm, password = e4FCWrgpkji3QY, tfo = false, udp-relay = false
 Germany2 (LKTeamShare) = vmess, 51.75.74.253, 10000, username = df05adba-e5fb-11ed-a1bd-5fee106af88d, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpnjantit, sni = 51.75.74.253, skip-cert-verify = true, tfo = false, udp-relay = false
