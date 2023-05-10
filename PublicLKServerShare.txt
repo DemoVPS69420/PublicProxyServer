@@ -25,7 +25,7 @@ Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-me
 Phiên bản: v1.17.2 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Cập nhật 7/5/2023 23:53 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Telegram: @KadenMegarimi = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Vietnam, HoChiMinh (LKTeamShare) = trojan, gmvip01.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Vietnam, HoChiMinh (LKTeamShare) = trojan, gmvip02.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, HoChiMinh2 (LKTeamShare) = trojan, gmloadip0.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 103.122.163.39, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = 103.122.163.39, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = vmess, 139.162.20.238, 80, username = d74dbab8-1c01-49c9-be3c-1e44b3a9b648, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = 139.162.20.238, skip-cert-verify = true, tfo = false, udp-relay = false
