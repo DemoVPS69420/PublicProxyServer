@@ -13,7 +13,6 @@ Germany (LKTeamShare) = Shadowsocks,ak1746.www.outline.network.fr8678825324247b8
 Germany2 (LKTeamShare) = Vmess,51.75.74.253,10000,auto,"df05adba-e5fb-11ed-a1bd-5fee106af88d",transport=ws,alterId=0,path=/vpnjantit
 Hong Kong (LKTeamShare) = Vmess,hk2.c2bfe79372be.sanfen004.me,443,(null),"30ba67cf-776c-48be-8bb5-578878830228",transport=ws,alterId=0,path=/zh-cn,host=www.microsoft.com,over-tls=true,tls-name=hk2.c2bfe79372be.sanfen004.me
 UnitedKingdom (LKTeamShare) = Shadowsocks,ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,4444,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
-UnitedKingdom2 (LKTeamShare) = Vmess,vuk1.0bad.com,443,auto,"927094d3-d678-4763-8591-e240d0bcae87",transport=ws,alterId=0,path=/chat,host=vuk1.0bad.com,over-tls=true,tls-name=vuk1.0bad.com
 UnitedStates (LKTeamShare) = Shadowsocks,ak1744.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,6697,aes-256-gcm,"TEzjfAYq2IjtuoS",fast-open=false,udp=false
 Canada (LKTeamShare) = Shadowsocks,ak1745.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,443,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
 France (LKTeamShare) = Shadowsocks,ak1739.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,8000,aes-256-gcm,"KixLvKzwjekG00rm",fast-open=false,udp=false
