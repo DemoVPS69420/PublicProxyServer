@@ -2,7 +2,7 @@ Hãy cập nhật server thường xuyên = Shadowsocks,128.276.188.717,443,aes-
 Phiên bản (Loon): v1.1.9 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Cập nhật 19/5/2023 21:19 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Telegram: @KadenMegarimi = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
-Vietnam, HoChiMinh (LKTeamShare) = trojan,gmvip02.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
+Vietnam, HoChiMinh (LKTeamShare) = trojan,gmvip01.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
 Vietnam, HoChiMinh2 (LKTeamShare) = trojan,gmloadip0.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
 Vietnam, Hanoi (LKTeamShare) = Vmess,103.122.163.39,80,auto,"6afb4445-60fc-44eb-ab38-a5e2a9fb90f3",transport=ws,alterId=0,path=/vpn5sao.com,host=dl.kgvn.garenanow.com
 Singapore1 (LKTeamShare) = trojan,singvip1.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
