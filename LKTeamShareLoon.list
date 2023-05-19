@@ -1,17 +1,13 @@
 Hãy cập nhật server thường xuyên = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
-Phiên bản (Loon): v1.1.8 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
-Cập nhật 7/5/2023 23:56 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
+Phiên bản (Loon): v1.1.9 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
+Cập nhật 19/5/2023 21:19 = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Telegram: @KadenMegarimi = Shadowsocks,128.276.188.717,443,aes-256-cfb,"amazonskr05",fast-open=false,udp=false
 Vietnam, HoChiMinh (LKTeamShare) = trojan,gmvip02.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
 Vietnam, HoChiMinh2 (LKTeamShare) = trojan,gmloadip0.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
-Vietnam, Hanoi (LKTeamShare) = Vmess,103.122.163.39,80,auto,"d74dbab8-1c01-49c9-be3c-1e44b3a9b648",transport=ws,alterId=0,path=/vpn5sao.com,host=dl.kgvn.garenanow.com
-Singapore1 (🛑 Lỗi, bảo trì) = Vmess,139.162.20.238,80,auto,"d74dbab8-1c01-49c9-be3c-1e44b3a9b648",transport=ws,alterId=0,path=/vpn5sao.com,host=dl.kgvn.garenanow.com
-Singapore2 (LKTeamShare) = trojan,singvip1.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
-Singapore3 (LKTeamShare) = Shadowsocks,ak1752.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,808,chacha20-ietf-poly1305,"G!yBwPWH3Vao",fast-open=false,udp=false
-Japan1 (LKTeamShare) = Vmess,152.69.197.74,12345,auto,"b8a6bf58-485a-4046-b386-b3661bf65eff",transport=ws,alterId=0,path=/bb
+Vietnam, Hanoi (LKTeamShare) = Vmess,103.122.163.39,80,auto,"6afb4445-60fc-44eb-ab38-a5e2a9fb90f3",transport=ws,alterId=0,path=/vpn5sao.com,host=dl.kgvn.garenanow.com
+Singapore1 (LKTeamShare) = trojan,singvip1.csadata4g.me,443,"e505ff62-bc60-4113-b922-b40919396462",transport=tcp,tls-name=dl.kgvn.garenanow.com,path=/,host=dl.kgvn.garenanow.com
+Singapore2 (LKTeamShare) = Shadowsocks,ak1752.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,808,chacha20-ietf-poly1305,"G!yBwPWH3Vao",fast-open=false,udp=false
 Germany (LKTeamShare) = Shadowsocks,ak1746.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,9102,aes-256-gcm,"e4FCWrgpkji3QY",fast-open=false,udp=false
-Germany2 (LKTeamShare) = Vmess,51.75.74.253,10000,auto,"df05adba-e5fb-11ed-a1bd-5fee106af88d",transport=ws,alterId=0,path=/vpnjantit
-Hong Kong (LKTeamShare) = Vmess,hk2.c2bfe79372be.sanfen004.me,443,(null),"30ba67cf-776c-48be-8bb5-578878830228",transport=ws,alterId=0,path=/zh-cn,host=www.microsoft.com,over-tls=true,tls-name=hk2.c2bfe79372be.sanfen004.me
 UnitedKingdom (LKTeamShare) = Shadowsocks,ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,4444,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
 UnitedStates (LKTeamShare) = Shadowsocks,ak1744.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,6697,aes-256-gcm,"TEzjfAYq2IjtuoS",fast-open=false,udp=false
 Canada (LKTeamShare) = Shadowsocks,ak1745.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou,443,aes-256-gcm,"pKEW8JPByTVTLtM",fast-open=false,udp=false
