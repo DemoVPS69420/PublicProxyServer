@@ -22,11 +22,13 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Phiên bản: v1.17.3 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Cập nhật 19/5/2023 19:42 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Phiên bản: v1.18.0 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Cập nhật 27/5/2023 14:52 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Telegram: @KadenMegarimi = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (LKTeamShare) = trojan, gmvip01.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, HoChiMinh2 (LKTeamShare) = trojan, gmloadip0.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Vietnam, HoChiMinh3 (LKTeamShare) = trojan, gmvip01.csadata4g.me, 443, password = 711476-68dd-4f6a-841a-71f29847ef6c, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
+Vietnam, HoChiMinh4 (LKTeamShare) = trojan, gmloadip0.csadata4g.me, 443, password = 711476-68dd-4f6a-841a-71f29847ef6c, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 103.122.163.39, 80, username = 6afb4445-60fc-44eb-ab38-a5e2a9fb90f3, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = 103.122.163.39, skip-cert-verify = true, tfo = false, udp-relay = false
 Singapore1 (LKTeamShare) = trojan, singvip1.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Singapore2 (LKTeamShare) = ss, ak1752.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, 808, encrypt-method = chacha20-ietf-poly1305, password = G!yBwPWH3Vao, tfo = false, udp-relay = false
