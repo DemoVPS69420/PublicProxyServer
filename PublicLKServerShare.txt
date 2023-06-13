@@ -22,9 +22,11 @@ http-request https?:\/\/.*\.iqiyi\.com\/.*authcookie= script-path=https://raw.gi
 [Proxy]
 DIRECT = direct
 Hãy cập nhật server thường xuyên = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Phiên bản: v1.18.0 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
-Cập nhật 27/5/2023 14:52 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Phiên bản: v1.18.1 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+Cập nhật 13/6/2023 07:32 = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Telegram: @KadenMegarimi = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+(Mấy ông sử dụng nhiều quá) = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
+(Nên tạm bảo trì toàn bộ) = ss, 128.276.188.717, 443, encrypt-method = aes-256-cfb, password = amazonskr05, tfo = false, udp-relay = false
 Vietnam, HoChiMinh (🛑 Bảo trì) = trojan, gmvip01.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, HoChiMinh2 (🛑 Bảo trì) = trojan, gmloadip0.csadata4g.me, 443, password = e505ff62-bc60-4113-b922-b40919396462, skip-cert-verify = true, sni = dl.kgvn.garenanow.com, tfo = false, udp-relay = false
 Vietnam, Hanoi (LKTeamShare) = vmess, 103.122.163.39, 80, username = 6afb4445-60fc-44eb-ab38-a5e2a9fb90f3, tls = false, vmess-aead = true, tls13 = false, ws = true, ws-path = /vpn5sao.com, ws-headers = host:dl.kgvn.garenanow.com, sni = 103.122.163.39, skip-cert-verify = true, tfo = false, udp-relay = false
