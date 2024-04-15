@@ -112,7 +112,7 @@
       ]
     },
     {
-      "tag": "auto",
+      "tag": "select",
       "type": "urltest",
       "outbounds": [
         "🇻🇳 Hà Nội Phố 5G ⚡(NỀN TIKTOK)",
