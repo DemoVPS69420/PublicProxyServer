@@ -2,7 +2,6 @@
 loglevel = notify
 bypass-system = true
 skip-proxy = 127.0.0.1,192.168.0.0/16,10.0.0.0/8,172.16.0.0/12,100.64.0.0/10,localhost,*.local,e.crashlytics.com,captive.apple.com,::ffff:0:0:0:0/1,::ffff:128:0:0:0/1
-#DNS设置或根据自己网络情况进行相应设置
 bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
 dns-server = 119.29.29.29,223.5.5.5,218.30.19.40,61.134.1.4
 external-controller-access = password@0.0.0.0:6170
@@ -50,11 +49,6 @@ DIRECT = direct
 🐟 漏网之鱼 = select, 🚀 节点选择, 🎯 全球直连, ♻️ 自动选择, Hong Kong
 
 [Rule]
-# 本地/局域网地址
-# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
-# ACL4SSR标志 如没有，代表不是用ACL4SSR规则
-# 本地/局域网地址
-# Router managed 路由器管理域名
 DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
 DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
 DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
@@ -87,12 +81,6 @@ DOMAIN-SUFFIX,routerlogin.com,🎯 全球直连
 DOMAIN-SUFFIX,tendawifi.com,🎯 全球直连
 DOMAIN-SUFFIX,zte.home,🎯 全球直连
 DOMAIN-SUFFIX,tplogin.cn,🎯 全球直连
-# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
-# 广告关键词
-# 广告联盟-国内****************
-# 广告联盟-国外****************
-# 垃圾站点****************
-# 运营商广告****************
 DOMAIN-KEYWORD,admarvel,🛑 全球拦截
 DOMAIN-KEYWORD,admaster,🛑 全球拦截
 DOMAIN-KEYWORD,adsage,🛑 全球拦截
